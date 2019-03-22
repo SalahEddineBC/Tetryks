@@ -1,4 +1,5 @@
 # Tetryks
-game Made By Unity for a school Project   
-Tetris Game with online ranking (independant api)
+Game Made With Unity For a School Project   
+
+This Game Supports Online Ranking (Independent API)
 
